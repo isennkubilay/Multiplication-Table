@@ -13,3 +13,8 @@ In this exercise you will create a program that displays a multiplication table 
     8   8  16  24  32  40  48  56  64  72  80
     9   9  18  27  36  45  54  63  72  81  90
     10  10  20  30  40  50  60  70  80  90 100
+    
+
+👇👇👇🤙
+
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Multiplication-Table)](https://repl.it/github/isennkubilay/Multiplication-Table)
